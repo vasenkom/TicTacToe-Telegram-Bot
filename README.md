@@ -1,5 +1,4 @@
-Hello, welcome to my Tic Tac T
-oe Telegram Bot.
+Hello, welcome to my Tic Tac Toe Telegram Bot.
 
 Unfortunately, I am not able to upload it to the server, but I would like to show how does it work.
 
