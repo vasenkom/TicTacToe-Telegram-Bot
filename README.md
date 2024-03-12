@@ -24,11 +24,11 @@ Here are some screenshots showcasing the Tic Tac Toe Telegram Bot:
 
 <img src="Screen/scr4.jpg" alt="Description" height="300px" width="150px">
 
-  In win situations, the bot displays a victory message and image.
+  In lose situations, the bot displays a victory message and image.
 
 <img src="Screen/scr5.jpg" alt="Description" height="300px" width="150px">
 
-  In lose situations, the bot displays a defeat message and image.
+  In win situations, the bot displays a defeat message and image.
 
 <img src="Screen/scr6.jpg" alt="Description" height="300px" width="150px">
 
