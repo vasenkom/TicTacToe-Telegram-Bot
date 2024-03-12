@@ -10,31 +10,31 @@ Unfortunately, due to limitations, the bot cannot be uploaded to a server. Howev
 
 Here are some screenshots showcasing the Tic Tac Toe Telegram Bot:
 
-<img src="Screen/scr1.jpg" alt="Description" height="100px" width="50px">
+<img src="Screen/scr1.jpg" alt="Description" height="300px" width="150px">
 
   This screenshot shows the initial description of the bot. Users need to press "Start" to activate the bot.
-
-- ![Greeting Message](screenshots/scr2.jpg){ width=50% }
+  
+<img src="Screen/scr2.jpg" alt="Description" height="300px" width="150px">
 
   After pressing `/start`, users receive a greeting message. They can start the game by pressing the "Start" button.
 
-- ![Game Board](screenshots/scr3.jpg){ width=50% }
+<img src="Screen/scr3.jpg" alt="Description" height="300px" width="150px">
 
   The game board appears once the user starts the game. Users can select a cell to place their mark (heart).
 
-- ![Win Situation](screenshots/scr4.jpg){ width=50% }
+<img src="Screen/scr4.jpg" alt="Description" height="300px" width="150px">
 
   In win situations, the bot displays a victory message and image.
 
-- ![Lose Situation](screenshots/scr5.jpg){ width=50% }
+<img src="Screen/scr5.jpg" alt="Description" height="300px" width="150px">
 
   In lose situations, the bot displays a defeat message and image.
 
-- ![Tie Situation](screenshots/scr6.jpg){ width=50% }
+<img src="Screen/scr6.jpg" alt="Description" height="300px" width="150px">
 
   In tie situations, the bot displays a tie message and image.
 
-- ![Error Message](screenshots/scr7.jpg){ width=50% }
+<img src="Screen/scr7.jpg" alt="Description" height="300px" width="150px">
 
   If the user presses an occupied cell, an error message is displayed.
 
