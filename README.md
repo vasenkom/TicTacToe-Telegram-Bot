@@ -10,7 +10,7 @@ Unfortunately, due to limitations, the bot cannot be uploaded to a server. Howev
 
 Here are some screenshots showcasing the Tic Tac Toe Telegram Bot:
 
-- ![Description](screenshots/scr1.jpg){ width=50% }
+![scr1.jpg](Screen%2Fscr1.jpg){ width=50% }
 
   This screenshot shows the initial description of the bot. Users need to press "Start" to activate the bot.
 
